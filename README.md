@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
   <h1>
     Привет! Я Тамерлан.
   </h1>
@@ -9,6 +8,7 @@
   <p>
     Создаю отзывчивые, быстрые и красивые веб-интерфейсы с фокусом на React.
   </p>
+  <img src="https://media.tenor.com/plrlSMdBvTYAAAAM/joe-goldberg-joe-goldberg-you.gif" alt="joe goldberg gif" align="center" width="255px" height="195px"/>
 </div>
 
 ---
@@ -23,6 +23,7 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <!-- JavaScript & Frameworks -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
   <!-- Build Tools & Utilities -->
@@ -30,8 +31,7 @@
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/></a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/></a>
   <a href="https://prettier.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier"/></a>
-   <!-- Добавь сюда другие технологии, если используешь, например, Git, TypeScript, Jest и т.д. -->
-   <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a> -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 </p>
 
 ---
@@ -45,16 +45,6 @@
 </p>
 
 ---
-
-<!-- ## 📊 Статистика GitHub (Опционально - раскомментируй, если хочешь)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blesswrld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Статистика GitHub"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesswrld&theme=tokyonight&hide_border=false" alt="Статистика стриков"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesswrld&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Топ языков"/>
-</p>
-
---- -->
 
 ## 🏆 Codewars
 
@@ -76,8 +66,3 @@
 </p>
 
 ---
-<!--
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=blesswrld&icon=0&color=12" alt="Количество посещений профиля"/>
-</p>
--->
