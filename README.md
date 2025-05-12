@@ -62,7 +62,7 @@
 <p align="center">
   Всегда открыт для интересных проектов и общения!
   <br/><br/>
-  <a href="https://t.me/gelgaev_dev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> 
+  <a href="https://t.me/timammn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> 
 </p>
 
 ---
