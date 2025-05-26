@@ -8,7 +8,7 @@
   <p>
     Создаю отзывчивые, быстрые и красивые веб-интерфейсы с фокусом на React.
   </p>
-<!--   <img src="https://youtu.be/7FBcy-t_Zps" alt="joe goldberg gif" align="center" width="255px" height="255px"/> -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3oxYXRnY3R6eG4xZ3FrM25nOHJqYTQ4OTdvc3VsanB6bWd6djJiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dV66QmDd9ukfw73plf/giphy.gif" alt="joe goldberg gif" align="center" width="255px" height="255px"/>
 </div>
 
 ---
