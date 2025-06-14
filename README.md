@@ -37,7 +37,7 @@
 
 **Backend (Серверная часть):**
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+<!--   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a> -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Socket.io_Server-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io Server"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
