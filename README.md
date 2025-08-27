@@ -25,6 +25,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/daisyUI-1E293B?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI"/></a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/></a>
+  <a href="https://geist-ui.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Geist_UI-000000?style=for-the-badge&logo=geist&logoColor=white" alt="Geist UI"/></a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
