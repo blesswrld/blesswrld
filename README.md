@@ -3,7 +3,7 @@
     Привет! Я Тамерлан.
   </h1>
   <h3>
-    🚀 Frontend Разработчик 🚀
+    🚀 Frontend Разработчик
   </h3>
   <p>
     Создаю отзывчивые, быстрые и красивые веб-интерфейсы с фокусом на React.
@@ -94,7 +94,8 @@
 <p align="center">
   Всегда открыт для интересных проектов и общения!
   <br/><br/>
-  <a href="https://t.me/timammn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> 
+  <a href="https://t.me/timammn" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://gelgaevdev.ru" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
