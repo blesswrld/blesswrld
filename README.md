@@ -12,7 +12,7 @@
 
 <div align="center">
 <h1>
-Hi! I'm Tamerlan.
+Hi! I'm Tamerlan
 </h1>
 <h3>
 🚀 Frontend Developer
@@ -100,7 +100,7 @@ Build Tools & Utilities:
 
 <div align="center">
 <h1>
-Привет! Я Тамерлан.
+Привет! Я Тамерлан
 </h1>
 <h3>
 🚀 Frontend Разработчик
