@@ -22,7 +22,7 @@ Creating responsive, fast, and beautiful web interfaces with a focus on React.
 </p>
 </div>
 
-🛠️ Tech Stack & Tools
+Tech Stack & Tools
 Frontend (Client-side):
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
