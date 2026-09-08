@@ -2,11 +2,11 @@
 ### I am TMA-Builder creator
 ![I am TMA-Builder creator](https://i.pinimg.com/736x/d1/a4/67/d1a467e03594c6a40dc135a522d8563d.jpg)
 
-I made this project just for fun, it allows you to create your nice and simple store in this constructor (TMA-Builder).
+I made this project just for fun, it allows you to create your nice and simple store in this constructor.
 
-Skills: REACT JS | REACT | JS | TYPESCRIPT | HTML | CSS 
+**Skills:** REACT JS | REACT | JS | TYPESCRIPT | HTML | CSS 
 
-- 🔭 I’m currently working on https://github.com/blesswrld/tma-builder 
+- 🔭 I’m currently working on [TMA-Builder](https://github.com/blesswrld/tma-builder)
 - 🌱 I’m currently learning TypeScript, ReactNative 
 - 👯 I’m looking to collaborate on TMA-Builder project 
 - 💬 Ask me about anything 
