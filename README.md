@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is Tamerlan
 ### I am TMA-Builder creator
-![I am TMA-Builder creator](https://i.pinimg.com/736x/d1/a4/67/d1a467e03594c6a40dc135a522d8563d.jpg)
 
 I made this project just for fun, it allows you to create your nice and simple store in this constructor.
 
